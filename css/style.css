@@ -383,7 +383,7 @@ header .navbar.sticky .menu-itens ul li a {
 }
 
 .cards .row .card .imagem-1 {
-    background-image: url('/img/site-camila.png');
+    background-image: url('/img/site-camila.webp');
     background-position: top;
     background-size: cover;
     transition: 10s;
@@ -397,7 +397,7 @@ header .navbar.sticky .menu-itens ul li a {
 }
 
 .cards .row .card .imagem-2 {
-    background-image: url('/img/site-felipe.png');
+    background-image: url('/img/site-felipe.webp');
     background-position: top;
     background-size: cover;
     transition: 10s;
@@ -411,7 +411,7 @@ header .navbar.sticky .menu-itens ul li a {
 }
 
 .cards .row .card .imagem-3 {
-    background-image: url('/img/site-leandro.png');
+    background-image: url('/img/site-leandro.webp');
     background-position: top;
     background-size: cover;
     transition: 10s;
@@ -425,7 +425,7 @@ header .navbar.sticky .menu-itens ul li a {
 }
 
 .cards .row .card .imagem-4 {
-    background-image: url('/img/site-jomkaza.png');
+    background-image: url('/img/site-jomkaza.webp');
     background-position: top;
     background-size: cover;
     transition: 10s;
